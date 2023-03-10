@@ -1,0 +1,55 @@
+Projeto 
+1 - coleta de dados com pipeline
+
+2 - pegar os dados do 
+
+3 - encontrtar problema de negocio
+
+dashboard
+storia
+streamlit
+jupter(grafico python)
+
+
+encontar probelama de negocio
+
+fazer storytelling
+
+aprensentação o foco
+
+algumma pergunta que pode ser respondida ou uma curiosidade
+
+nao precisa aprsentar tudo oq fez durante o processo analise exploratoria
+
+pegar varios insigths e depois limpa-lo
+
+
+entregavies
+	- colocar no tableau public ou link no github para baixar
+
+	-  readme pipeline e criação de banco de dados
+	
+	- Conclusao que cheguei com os gráficos
+
+
+os dados já estejam prontos para fazer visualização -> csv ou sql aberto no tableau
+repositorio já criado
+
+
+-------------------------------------------------------------------------------------------------
+FINAL SUPERBOWL
+ - State Farm Stadium em Glendale, no estado do Arizona, Estados Unidos. 
+ - Philadelphia Eagles X Kansas City Chiefs, em um jogo histórico da NFL para todas as edições do Super Bowl, 
+pois será a primeira vez que dois times se enfrentarão em campo na definição.
+
+
+-------------------------------------------------------------------
+criar uma tabela time -------- OK
+pegar times 
+construir paramentro ou colocar no filtro
+imagem do time
+descrição
+entrar nos jogadors individual
+enrar nos times
+comporttamenbto geral das posiçoes
+imagens do jogador ou url do site com informação dos jogadores
